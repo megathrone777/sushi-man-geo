@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">sushi-man-tracker</string>
+    <string name="title_activity_main">sushi-man-tracker</string>
+    <string name="package_name">sushi.man.tracker</string>
+    <string name="custom_url_scheme">sushi.man.tracker</string>
+</resources>
